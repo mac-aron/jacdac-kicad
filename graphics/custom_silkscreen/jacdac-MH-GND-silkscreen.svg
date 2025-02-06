@@ -135,11 +135,7 @@
      d="M 4.9453154,4.2122281 4.1132138,4.361548"
      id="path3" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     d="M 4.8984308,4.9000607 4.3525795,4.3542094"
-     id="path14-1" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     d="M 4.3525795,4.9000607 4.8984308,4.3542094"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 4.3525795,4.9000607 4.8904121,4.3622281"
      id="path14-1-9" />
 </svg>

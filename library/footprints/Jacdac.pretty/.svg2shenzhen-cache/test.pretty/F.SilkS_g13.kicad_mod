@@ -1,10 +1,11 @@
-(module "jacdac-MH-data-silkscreen" (layer F.Cu)
-(fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
-(effects (font (size 1.27 1.27) (thickness 0.15)))
-)
-(fp_text value Val** (at 0 0) (layer F.SilkS) hide
-(effects (font (size 1.27 1.27) (thickness 0.15)))
-)
+(module LOGO (layer F.Cu)
+  (at 0 0)
+ (fp_text reference "G***" (at 0 0) (layer F.SilkS) hide
+  (effects (font (thickness 0.3)))
+  )
+  (fp_text value "LOGO" (at 0.75 0) (layer F.SilkS) hide
+  (effects (font (thickness 0.3)))
+  )
   (fp_poly (pts (xy 0.592297 1.777316) (xy 0.608017 1.784621) (xy 0.621297 1.794572) (xy 0.630562 1.803522) (xy 0.638228 1.813232) (xy 0.644964 1.825088) (xy 0.651440 1.840480) (xy 0.658327 1.860793)
      (xy 0.666294 1.887416) (xy 0.666550 1.888302) (xy 0.684234 1.945093) (xy 0.703279 1.996824) (xy 0.724806 2.046367) (xy 0.741000 2.079428) (xy 0.783738 2.154562) (xy 0.833262 2.226140)
      (xy 0.888942 2.293436) (xy 0.950146 2.355721) (xy 1.016243 2.412268) (xy 1.053564 2.440030) (xy 1.082362 2.461963) (xy 1.104113 2.482297) (xy 1.119358 2.501758) (xy 1.128638 2.521075)
