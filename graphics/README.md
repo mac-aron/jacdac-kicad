@@ -1,3 +1,0 @@
-Some of the previous silkscreen symbols (from Matt Openheim's library) we causing issues with python libraries such as `gerbonara`, so I decided to simplify the graphics, and therefore created custom silkscreen for Jacdac mounting hole footprints. They are not exactly per spec as in the EC30 template, but are close enough. In the future I would like to make these consistent with the EC30 specification (official graphics are in the `official-silkscreen` folder).
-
-I have uploaded both my custom SVGs (that I currently use in the Jacdac KiCad library) and the official ones that I plan to use in the future.
