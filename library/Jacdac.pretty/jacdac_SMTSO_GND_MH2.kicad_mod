@@ -276,18 +276,6 @@
 		(layer "F.CrtYd")
 		(uuid "0ac61ece-c454-4c0a-826e-808b7d484e9f")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 0 -9.799999 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "0a76547d-f8e7-4fb7-8c81-6cfcf2cb8ad6")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
 	(pad "1" thru_hole circle
 		(at 0 0 320)
 		(size 6.2 6.2)
@@ -355,7 +343,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/jacdac-kicad/library/3d/SMTSOB-M3-4ET-PennEngineering-3D-03-20-2025.stp"
+	(model "${KIPRJMOD}/library/Jacdac/Jacdac.3dshapes/SMTSOB-M3-4ET-PennEngineering-3D-03-20-2025.stp"
 		(offset
 			(xyz 0 -0 -1.53)
 		)
